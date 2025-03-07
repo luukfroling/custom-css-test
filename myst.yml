@@ -13,6 +13,6 @@ project:
 site:
   template: book-theme
   options:
-    style: style/style.css
+    style: ./style/style.css
     favicon: favicon.ico
   #   logo: site_logo.png
